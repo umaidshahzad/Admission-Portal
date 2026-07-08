@@ -1,0 +1,6 @@
+{
+  "name": "University Admissions Portal",
+  "description": "A comprehensive admissions portal supporting merit calculation, role-based workflows, and automated admissions status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
